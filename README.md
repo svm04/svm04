@@ -1,7 +1,7 @@
 # Hi, I'm Senithi 👋
 
-🎓 Third-year BSc (Hons) IT and Management undergraduate at the University of Moratuwa (Faculty of Information Technology, Batch 23)
-📊 CIMA Certificate in Business Accounting (Cert BA) | CIMA Diploma in Management Accounting (CGMA Dip MA)
+🎓 Third-year BSc (Hons) IT and Management undergraduate at the University of Moratuwa (Faculty of Information Technology)
+📊 CIMA Certificate in Business Accounting (Cert BA) | Completing CIMA Diploma in Management Accounting (CGMA Dip MA)
 🎯 Exploring opportunities in **Software Engineering**, **Business Analysis**, and **Project Management**
 
 ---
@@ -12,8 +12,9 @@
 Java · Spring Boot · React · PostgreSQL · OpenAI API
 My contributions: AI CV screening engine, billing/subscription module, support tickets, scheduled automation.
 
-**TalentLens** — Power BI recruitment analytics dashboard built as a companion to Interlink.
-Star schema · Power Query · DAX measures · Five report pages
+**[TalentLens](https://github.com/svm04/talentlense)** — Power BI recruitment analytics dashboard built as a companion to Interlink.
+Power BI · Power Query · DAX
+Turns candidate, hiring, and pipeline data into an interactive star-schema model with DAX-driven KPIs across five report pages.
 
 **[Pocketly](https://github.com/svm04/Pocketly)** — Full-stack personal finance and expense tracker.
 MongoDB · Express · React · Node.js · Tailwind CSS · JWT Auth · ExcelJS · Recharts
@@ -33,4 +34,4 @@ Secure authentication with hashed credentials, role-based access control, and fu
 
 ### 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/senithi) · [Email](senithimalalanayake@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/senithi) · [Email](senithimalalnayake@gmail.com)
