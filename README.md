@@ -17,11 +17,12 @@
 
 ### 🎓 About Me
 
-- Third-year **BSc (Hons) IT & Management** undergraduate at the **University of Moratuwa**, Faculty of Information Technology 
-- CIMA-qualified in management accounting (**Cert BA** + **Dip MA, Operational Level**), so I don't just build the system — I build the dashboard that proves what it's worth
-- Comfortable across the stack: **Java/Spring Boot**, the **MERN** stack, and **OpenAI-powered** features, backed by real production deployments
-- Also fluent in **Power BI** — star-schema modeling, DAX, and Power Query, not just charts
-- Actively looking for **Software Engineering**, **Business Analysis**, and **Project Management** internships
+- 🎓 Third-year **BSc (Hons) IT & Management** undergraduate at the **University of Moratuwa**, Faculty of Information Technology — GPA **3.61 / 4.00**
+- 🧮 CIMA-qualified in management accounting (**Cert BA** + **Dip MA, Operational Level**), so I don't just build the system — I build the dashboard that proves what it's worth
+- 🤖 Comfortable across the stack: **Java/Spring Boot**, the **MERN** stack, and **OpenAI-powered** features, backed by real production deployments
+- 📊 Also fluent in **Power BI** — star-schema modeling, DAX, and Power Query, not just charts
+- 🎯 Actively looking for **Software Engineering**, **Business Analysis**, and **Project Management** internships
+- ⚡ Fun fact: I've soldered sensors onto a PCB *and* untangled a race-condition bug in a subscription billing engine — in the same semester
 
 ---
 
@@ -132,9 +133,6 @@ A case-study-driven portfolio site (React/Vite, Tailwind, Framer Motion, GSAP + 
 ### 📈 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=svm04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Senithi's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svm04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=svm04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
