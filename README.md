@@ -22,7 +22,6 @@
 - 🤖 Comfortable across the stack: **Java/Spring Boot**, the **MERN** stack, and **OpenAI-powered** features, backed by real production deployments
 - 📊 Also fluent in **Power BI** — star-schema modeling, DAX, and Power Query, not just charts
 - 🎯 Actively looking for **Software Engineering**, **Business Analysis**, and **Project Management** internships
-- ⚡ Fun fact: I've soldered sensors onto a PCB *and* untangled a race-condition bug in a subscription billing engine — in the same semester
 
 ---
 
