@@ -17,12 +17,11 @@
 
 ### 🎓 About Me
 
-- 🎓 Third-year **BSc (Hons) IT & Management** undergraduate at the **University of Moratuwa**, Faculty of Information Technology — GPA **3.61 / 4.00**
-- 🧮 CIMA-qualified in management accounting (**Cert BA** + **Dip MA, Operational Level**), so I don't just build the system — I build the dashboard that proves what it's worth
-- 🤖 Comfortable across the stack: **Java/Spring Boot**, the **MERN** stack, and **OpenAI-powered** features, backed by real production deployments
-- 📊 Also fluent in **Power BI** — star-schema modeling, DAX, and Power Query, not just charts
-- 🎯 Actively looking for **Software Engineering**, **Business Analysis**, and **Project Management** internships
-- ⚡ Fun fact: I've soldered sensors onto a PCB *and* untangled a race-condition bug in a subscription billing engine — in the same semester
+- Third-year **BSc (Hons) IT & Management** undergraduate at the **University of Moratuwa**, Faculty of Information Technology 
+- CIMA-qualified in management accounting (**Cert BA** + **Dip MA, Operational Level**), so I don't just build the system — I build the dashboard that proves what it's worth
+- Comfortable across the stack: **Java/Spring Boot**, the **MERN** stack, and **OpenAI-powered** features, backed by real production deployments
+- Also fluent in **Power BI** — star-schema modeling, DAX, and Power Query, not just charts
+- Actively looking for **Software Engineering**, **Business Analysis**, and **Project Management** internships
 
 ---
 
